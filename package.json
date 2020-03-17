@@ -24,7 +24,7 @@
     "predeploy" : "npm install",
     "deploy" : "npm start",
     "type": "git",
-    "url": "https://github.com/TimofeySIvanov"
+    "url": "https://timofeysivanov.github.io/portfolio_public/"
   },
   "keywords": [
     "javascript",
