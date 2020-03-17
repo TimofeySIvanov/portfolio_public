@@ -1,0 +1,49 @@
+{"projects":
+    [
+        {"id": 0,
+         "project_name": "Random Quotes",
+         "description": "I have created random quote generator!",
+         "technologies": ["HTML","CSS", "JavaScript"],
+         "live_link": "https://timofeysivanov.github.io/project_1_public/",
+         "github_link": "https://github.com/TimofeySIvanov/project_1_public",
+         "image_urls": ["/static/images/random_quote_1.png",
+           "/static/images/random_quote_2.png"]
+        },
+        {"id": 1,
+         "project_name": "JavaScript and the DOM",
+         "description": "JavaScript and the DOM list where user can add and remove items from the list!",
+         "technologies": ["HTML","CSS", "JavaScript"],
+         "live_link": "https://timofeysivanov.github.io/project_2_public/",
+         "github_link": "https://github.com/TimofeySIvanov/project_2_public",
+         "image_urls": ["/static/images/JavaScript_and_the_DOM_2.png",
+           "/static/images/JavaScript_and_the_DOM_1.png"]
+        },
+        {"id": 2,
+         "project_name": "Full Stack Conf",
+         "description": "Full Stack Conf interactive forms!",
+         "technologies": ["HTML","CSS", "JavaScript", "jQuery"],
+         "live_link": "https://timofeysivanov.github.io/project_3_public/",
+         "github_link": "https://github.com/TimofeySIvanov/project_3_public",
+         "image_urls": ["/static/images/Full_Stack_Conf_1.png",
+           "/static/images/Full_Stack_Conf_2.png"]
+        },
+        {"id": 3,
+         "project_name": "PHRASE HUNTER APP!",
+         "description": "I have created classical HangMan game!",
+         "technologies": ["HTML","CSS", "JavaScript", "jQuery"],
+         "live_link": "https://timofeysivanov.github.io/project_4_public/",
+         "github_link": "https://github.com/TimofeySIvanov/project_4_public",
+         "image_urls": ["/static/images/PHRASE_HUNTER_1.png",
+           "/static/images/PHRASE_HUNTER_2.png"]
+        },
+        {"id": 4,
+         "project_name": "AWESOME STARTUP EMPLOYEE DIRECTORY",
+         "description": "AWESOME STARTUP EMPLOYEE DIRECTORY! Simple employee directory with basic search function",
+         "technologies": ["HTML","CSS", "JavaScript", "jQuery", "API", "JSON"],
+         "live_link": "https://timofeysivanov.github.io/project_5_public/",
+         "github_link": "https://github.com/TimofeySIvanov/project_5_public",
+         "image_urls": ["/static/images/AWESOME_STARTUP_1.png",
+           "/static/images/AWESOME_STARTUP_2.png"]
+        }
+    ]
+}

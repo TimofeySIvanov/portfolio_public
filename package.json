@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio project",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "npx nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimofeySIvanov"
+  },
+  "keywords": [
+    "javascript",
+    "express.js",
+    "portfolio"
+  ],
+  "author": "Timofey Ivanov",
+  "license": "ISC"
+}
