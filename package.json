@@ -9,8 +9,14 @@
     "nodemon": "^1.19.1",
     "pug": "^2.0.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "2.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "pug": "^2.0.4"
+  },
   "scripts": {
+
     "test": "test",
     "start": "npx nodemon app.js"
   },
