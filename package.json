@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "portfolio project",
-  "homepage": "https://github.com/TimofeySIvanov/portfolio_public",
+  "homepage": "https://timofeysivanov.github.io/portfolio_public/",
   "main": "app.js",
   "dependencies": {
     "express": "^4.17.1",
@@ -21,6 +21,8 @@
     "start": "npx nodemon app.js"
   },
   "repository": {
+    "predeploy" : "npm install",
+    "deploy" : "npm start",
     "type": "git",
     "url": "https://github.com/TimofeySIvanov"
   },
