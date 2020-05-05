@@ -17,6 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm install",
+    "acorn": ">=5.7.4",
     "deploy": "npm start",
     "test": "test",
     "start": "npx nodemon app.js"

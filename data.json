@@ -44,6 +44,15 @@
          "github_link": "https://github.com/TimofeySIvanov/project_5_public",
          "image_urls": ["/static/images/AWESOME_STARTUP_1.png",
            "/static/images/AWESOME_STARTUP_2.png"]
+        },
+        {"id": 5,
+         "project_name": "Photo search machine",
+         "description": "You can use this photo search website to find the best gifs on internet!",
+         "technologies": ["HTML","CSS", "JavaScript", "jQuery", "API", "JSON", "API", "React", "Props"],
+         "live_link": "https://timofeysivanov.github.io/photo-search/",
+         "github_link": "https://github.com/TimofeySIvanov/photo-search",
+         "image_urls": ["/static/images/photo-search-dogs.png",
+           "/static/images/photo-search-all.png"]
         }
     ]
 }
